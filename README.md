@@ -20,8 +20,6 @@ To run this project locally, follow these steps:
 2. Open the project directory in your code editor.
 3. Launch the application by opening the index.html file in a web browser.
 
-![Screenshot (24)](https://github.com/Shreyas-Patil-01/Weather-Conditions-App/assets/138605973/539bc889-2a89-442e-927a-dc961211267a)
-
 ## Usage
 1. Enter the city name for which you want to retrieve weather data.
 2. The application will display the current weather conditions including temperature, humidity, and wind speed for the specified location.
