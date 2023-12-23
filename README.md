@@ -20,3 +20,5 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/Shreyas-Patil-01/weather-conditions-app.git
+2. Open the project directory in your code editor.
+3. Launch the application by opening the index.html file in a web browser.
