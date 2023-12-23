@@ -20,12 +20,7 @@ To run this project locally, follow these steps:
 2. Open the project directory in your code editor.
 3. Launch the application by opening the index.html file in a web browser.
 
-```bash
-git clone https://github.com/Shreyas-Patil-01/weather-conditions-app.git
-
-
 ![Screenshot (24)](https://github.com/Shreyas-Patil-01/Weather-Conditions-App/assets/138605973/539bc889-2a89-442e-927a-dc961211267a)
-
 
 ## Usage
 1. Enter the city name for which you want to retrieve weather data.
@@ -39,3 +34,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 This project is licensed under the MIT License.
+
+```bash
+git clone https://github.com/Shreyas-Patil-01/weather-conditions-app.git
+
